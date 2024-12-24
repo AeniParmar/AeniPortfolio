@@ -2,7 +2,7 @@
 
 This repository contains the source code and files for my personal portfolio website. The website is built using HTML, CSS, and JavaScript.
 Welcome to my portfolio! You can view it live at the link below:
-[Visit My Portfolio](https://aeniparmar.github.io/Portfolio/)
+[Visit My Portfolio](https://aeniparmar.github.io/AeniPortfolio/)
 
 ## Features
 
